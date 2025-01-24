@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily missed error in COBOL programs: integer overflow.  The provided code uses a counter which, in some cases, could exceed its defined capacity resulting in unexpected and incorrect results. The solution showcases how to rectify this.
